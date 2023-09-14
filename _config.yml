@@ -167,15 +167,15 @@ related_blog_posts:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
+# collections:
  # news:
  #   defaults:
  #     layout: post
  #   output: true
  #   permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+ # projects:
+ #  output: true
+ #   permalink: /projects/:path/
 
 # announcements:
  # enabled: true
@@ -208,6 +208,7 @@ kramdown:
 include: ['_pages']
 exclude:
   - bin
+  - "_pages/dropdown.md"
   - Gemfile
   - Gemfile.lock
   - vendor
