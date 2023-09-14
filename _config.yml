@@ -208,7 +208,6 @@ kramdown:
 include: ['_pages']
 exclude:
   - bin
-  - "_pages/dropdown.md"
   - Gemfile
   - Gemfile.lock
   - vendor
