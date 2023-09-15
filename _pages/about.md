@@ -23,3 +23,8 @@ I am a Ph.D. student in the School of Computational Science and Engineering at [
 by Professor [Vince D. Calhoun](https://trendscenter.org/vince-calhoun/). I finished my Masters in Computer Science from the [University of New Mexico](https://www.unm.edu/) in 2019. I was fortunate to intern at [NOKIA BELL LABS](https://www.bell-labs.com/).    
 
 My research interest lies in the intersection of Artificial Intelligence (AI) and computational neuroscience. The primary focus is to develop computational models for learning meaningful patterns from big data such as Neuroimaging to understand the brain's functionalities and dynamics aid for neuropsychiatric disorders intervention. Currently, I am working on a project outlined as 'AI for the Brian by the Brian' for leveraging neurocomputational strategies to improve the architectural design and performance of SOTA AI.
+
+### Contact Me
+
+* My personal email address is aabdur{dot}rahaman007{at}gmail{dot}com.
+* My one-page CV is [here](https://github.com/A-Rahaman/A-Rahaman.github.io/tree/master/assets/pdf/Md_Abdur_Rahaman.pdf). (Updated Sep, 2023)
