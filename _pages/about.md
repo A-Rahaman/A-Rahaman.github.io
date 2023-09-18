@@ -2,8 +2,6 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
 profile:
   align: right
   image: pic_me.jpg
@@ -27,7 +25,7 @@ Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPw
 ### Contact Me
 
 * My personal email address is aabdur{dot}rahaman007{at}gmail{dot}com.
-* My one-page CV is [here](Md_Abdur_Rahaman.pdf). (Updated on September, 2023)
+* My one-page CV is [here](Md_Abdur_Rahaman_full.pdf). (Updated on September, 2023)
 
 I love to play outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
  
