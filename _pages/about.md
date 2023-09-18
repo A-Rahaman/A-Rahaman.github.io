@@ -7,6 +7,7 @@ description:
 profile:
   align: right
   image: pic_me.png
+  image_circular: true # crops the image to make it circular
   address: Pensacola, FL
 
 # news: true  # includes a list of news items
@@ -26,7 +27,7 @@ Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPw
 ### Contact Me
 
 * My personal email address is aabdur{dot}rahaman007{at}gmail{dot}com.
-* My one-page CV is [here](Md_Abdur_Rahaman_full.pdf). (Updated on September, 2023)
+* My one-page CV is [here](Md_Abdur_Rahaman_short.pdf). (Updated on September, 2023)
 
 I love to play outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
  
