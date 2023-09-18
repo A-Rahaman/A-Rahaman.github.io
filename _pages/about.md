@@ -2,11 +2,12 @@
 layout: about
 title: About
 permalink: /
+description:
+
 profile:
   align: right
-  image: pic_me.jpg
-  image_circular: true # crops the image to make it circular
-  address: @ Pensacola Beach, FL 
+  image: pic_me.png
+  address: Pensacola, FL
 
 # news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
