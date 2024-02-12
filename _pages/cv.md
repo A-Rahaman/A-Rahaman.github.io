@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/Md_Abdur_Rahaman_full.pdf
+permalink: assets/pdf/Rahaman_Resume.pdf
 title: CV
 nav: true
 description:
