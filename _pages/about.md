@@ -6,8 +6,8 @@ description:
 
 profile:
   align: right
-  image: formal_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: pic_me.jpg
+  image_circular: true # crops the image to make it circular
   address: # Pensacola, FL
 
 # news: true  # includes a list of news items
