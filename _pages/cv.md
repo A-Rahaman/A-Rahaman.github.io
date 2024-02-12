@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/Rahaman_Resume.pdf
+permalink: assets/pdf/M_A_Rahaman.pdf
 title: CV
 nav: true
 description:
