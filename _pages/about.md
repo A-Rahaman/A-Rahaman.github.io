@@ -27,8 +27,8 @@ My research endeavors focus on developing computational models for knowledge ext
 ### Contact Me
 
 * My email address: aabdur.rahaman007@gmail.com
-* My one-page CV is [here](Md_Abdur_Rahaman_short.pdf). (Updated on September, 2023)
-* Here is the [full](M_A_Rahaman.pdf) CV. (Updated on February, 2024)
+* My one-page CV is [here](M_A_Rahaman_compact.pdf). (Updated on September, 2023)
+* Here is the [full](CV_M_A_Rahaman.pdf) CV. (Updated on February, 2024)
 * Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
 Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
