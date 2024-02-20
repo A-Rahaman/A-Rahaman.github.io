@@ -33,4 +33,4 @@ Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPw
 
 Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
  
-**Please feel free to reach out for any queries, collaborations, and opportunities. The best way to contact me is via email.** 
+**Please feel free to reach out for any queries, collaborations, and opportunities.** 
