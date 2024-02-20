@@ -21,7 +21,6 @@ by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGK
 
 My research endeavors focus on developing computational models for knowledge extraction from extensive datasets. I’ve worked on developing novel pattern mining, summarization, and clustering algorithms for big (medical) data. Moreover, I designed multiple deep learning (DL) architectures such as transformer-based biclustering, 2D bottleneck-attention-modules for multi-modal fusion, and graph convolutional networks (GCN) for dynamic modeling of the human brain connectome. Another intriguing aspect of my work involves leveraging neurocomputational strategies to enhance state-of-the-art AI paradigms. Furthermore, my research extends to NLP, focusing on decoding the brain's activations associated with cognitive processes and linguistics.  
 
-Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
 **I am looking for a full-time position starting in Fall 2024.**
 
@@ -30,6 +29,7 @@ Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPw
 * My email address: aabdur.rahaman007@gmail.com
 * My one-page CV is [here](Md_Abdur_Rahaman_short.pdf). (Updated on September, 2023)
 * Here is the [full](M_A_Rahaman.pdf) CV. (Updated on February, 2024)
+* Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
 Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
  
