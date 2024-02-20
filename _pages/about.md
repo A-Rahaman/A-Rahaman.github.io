@@ -23,10 +23,11 @@ My research endeavors focus on developing computational models for knowledge ext
 
 Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
+**I am looking for a full-time position starting in Fall 2024.**
 
 ### Contact Me
 
-* My personal email address is aabdur{dot}rahaman007{at}gmail{dot}com.
+* My email address: aabdur.rahaman007@gmail.com
 * My one-page CV is [here](Md_Abdur_Rahaman_short.pdf). (Updated on September, 2023)
 * Here is the [full](M_A_Rahaman.pdf) CV. (Updated on February, 2024)
 
