@@ -29,4 +29,4 @@ My research endeavors focus on developing computational models to extract knowle
 
 Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
  
-# **Please feel free to reach out for any queries, collaborations, and opportunities.** 
+# Please feel free to reach out for any queries, collaborations, and opportunities.
