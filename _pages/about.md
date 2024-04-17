@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: # Pensacola, FL
 
-# news: true  # includes a list of news items
+news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -24,10 +24,10 @@ My research endeavors focus on developing computational models to extract knowle
 
 **I am looking for a full-time position starting in Fall 2024.**
 
-### Contact Me
+## Contact Me
 
 * My email address: aabdur.rahaman007@gmail.com
-* Here is the [full](Rahaman.pdf) CV. (Updated on March, 2024)
+* Here is the [full](CV/Rahaman.pdf) CV. (Updated on March 2024)
 * Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
 Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
