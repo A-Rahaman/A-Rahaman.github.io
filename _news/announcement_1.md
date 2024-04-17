@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 My paper has been accepted in the Workshop on Domain Adaptation, Explainability, Fairness in AI for Medical Image Analysis (DEF-AI-MIA)
-in conjunction with the *IEEE Computer Vision and Pattern Recognition Conference (CVPR)*, 2024 to be held in Seattle, WA, 17-21 June.
+in conjunction with the **IEEE Computer Vision and Pattern Recognition Conference (CVPR)**, 2024 to be held in Seattle, WA, 17-21 June.
