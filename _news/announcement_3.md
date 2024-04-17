@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper has been accepted in the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, to be held in Orlando, Florida, USA, July 15-19, 2024.
+My paper has been accepted at the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society.
