@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student in the School of Computational Science and Engineering at [Georgia Tech](https://cse.gatech.edu/). I've been conducting my research in the Center for Translational Research in Neuroimaging and Data Science[(TReNDS)](https://trendscenter.org/) - a joint research lab with Georgia Tech, Emory, and Georgia State University led
-by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). I finished my Masters in Computer Science from the University of New Mexico in 2019. I worked as a DATA SCIENCE RESEARCH INTERN at [NOKIA BELL LABS](https://www.bell-labs.com/) in Fall 2021.    
+by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). I finished my Masters in Computer Science from the University of New Mexico in 2019. I interned at [NOKIA BELL LABS](https://www.bell-labs.com/) in Fall 2021.    
 
 I am interested in the granular factoring of big data dynamics. I’ve developed novel clustering, pattern mining, and summarization algorithms for cohesive subgrouping of data instances. Also, I design AI/ML architecture for extracting insights from large-scale high-dimensional datasets e.g., human brain images. My research also extends to reinforcement learning from human feedback (RLHF) to foster transparency, reliability, and authoritative relevance in AI models. Another intriguing aspect of my work involves leveraging neurocomputational strategies to enhance SOTA AI.  
 <!---
