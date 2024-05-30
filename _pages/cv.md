@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: CV/CV_Rahaman_W.pdf
+permalink: CV/CV_wRahaman.pdf
 title: CV
 nav: true
 description:
