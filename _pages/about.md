@@ -20,7 +20,7 @@ I am a Ph.D. student in the School of Computational Science and Engineering at [
 by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). I finished my Masters in Computer Science from the University of New Mexico in 2019. I worked as a DATA SCIENCE RESEARCH INTERN at [NOKIA BELL LABS](https://www.bell-labs.com/) in Fall 2021.    
 
 I am interested in the granular factoring of big data dynamics. I’ve developed novel clustering, pattern mining, and summarization algorithms for cohesive subgrouping of data instances. Also, I design AI/ML architecture for extracting insights from large-scale high-dimensional datasets e.g., human brain images. I worked on reinforcement learning from human feedback (RLHF) to foster transparency, reliability, and authoritative relevance in AI models. 
-# To this end, my projects are instantiated to various downstream tasks, e.g., transformer-based biclustering, classification, GNN for brain network modeling, 2D bottleneck-attention-module for multi-modal fusion, and Generative modeling. 
+[comment]: # To this end, my projects are instantiated to various downstream tasks, e.g., transformer-based biclustering, classification, GNN for brain network modeling, 2D bottleneck-attention-module for multi-modal fusion, and Generative modeling. 
 Another intriguing aspect of my work involves leveraging neurocomputational strategies to enhance SOTA AI. 
 
 **I am looking for a full-time position starting in Fall 2024.** Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
