@@ -27,6 +27,6 @@ I am interested in the granular factoring of big data dynamics. I’ve developed
 **I am looking for a full-time position starting in Fall 2024.** Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
 
 * My email address: aabdur.rahaman007@gmail.com
-* Here is the [full](CV/CV_wRahaman.pdf) CV. (Updated on March 2024)
+* Here is the [full CV](CV/CV_MA_Rahaman.pdf). (Updated on March 2024)
 * Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
