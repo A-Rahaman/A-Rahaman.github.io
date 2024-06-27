@@ -16,11 +16,9 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in the School of Computational Science and Engineering at [Georgia Tech](https://cse.gatech.edu/) and advised by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en).    
+I am a Ph.D. student in the School of Computational Science and Engineering at [Georgia Tech](https://cse.gatech.edu/) and advised by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). My research interests lie in self-supervised, semi-supervised, and unsupervised learning frameworks for neuroimaging and health informatics. I worked on AI frameworks for multi-modal fusion, reinforcement learning from human feedback (RLHF), semantic segmentation, transformer for learning graphs, etc. I am also interested in the granular factoring of big data dynamics and developed bi-clustering, tri-clustering, pattern mining, and summarization algorithms for cohesive subgrouping of data instances. Overall, I aim to develop AI solutions with plausible clinical impacts, endorsing medical research and AI-powered healthcare support. 
 
-My research interests lie in self-supervised, semi-supervised, and unsupervised learning frameworks for medical imaging and health informatics. I worked on AI frameworks for multi-modal fusion, reinforcement learning from human feedback (RLHF), semantic segmentation, transformer for brain connectivity learning, etc. I am interested in the granular factoring of big data dynamics and developed bi-clustering, tri-clustering, pattern mining, and summarization algorithms for cohesive subgrouping of data instances. 
-Overall, I aim to develop AI solutions with plausible clinical impacts, endorsing medical research and AI-powered healthcare support. 
-I interned at [NOKIA BELL LABS](https://www.bell-labs.com/) in Fall 2021.
+I got an oppurtunity to intern at [NOKIA BELL LABS](https://www.bell-labs.com/) in Fall 2021.
 <!---
 [Another intriguing aspect of my work involves leveraging neurocomputational strategies to enhance SOTA AI. To this end, my projects are instantiated to various downstream tasks, e.g., transformer-based biclustering, classification, GNN for brain network modeling, 2D bottleneck-attention-module for multi-modal fusion, and Generative modeling]:
 I've been conducting my research in the Center for Translational Research in Neuroimaging and Data Science[(TReNDS)](https://trendscenter.org/) - a joint research lab with Georgia Tech, Emory, and Georgia State University led
