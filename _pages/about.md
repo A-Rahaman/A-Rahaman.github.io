@@ -16,20 +16,17 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in the School of Computational Science and Engineering at [Georgia Tech](https://cse.gatech.edu/) and advised by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). I design computational (AI/ML/statistical) models to extract knowledge from extensive datasets ‑ imaging, text, health Informatics, and time series. My research interests include Health AI, Reinforcement Learning, RLHF, and Graph Learning. I’ve worked on AI challenges for learning voluminous, sparse, and high‑dimensional data. Also, I've conducted substantial research in the granular factoring of big data dynamics encompassing bi-clustering, tri-clustering, and summarization algorithms. 
+I am a Ph.D. candidate in the School of Computational Science and Engineering at [Georgia Tech](https://cse.gatech.edu/) and advised by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). I design computational (AI/ML/statistical) models to extract knowledge from extensive datasets ‑ imaging, text, health Informatics, and time series. My research interests include Health AI, Reinforcement Learning, RLHF, and Graph Learning. I’ve worked on AI challenges for learning voluminous, sparse, and high‑dimensional data. I've also conducted substantial research in the granular factoring of big data dynamics - bi-clustering, tri-clustering, and summarization frameworks. 
 
 I've experience in AI deployment in real-world settings - a federated RLHF-multi-modal framework for classifying mental disorders from neuroimages, genetics, and electronic health records and an LLM-log model to automate the routing of IT tickets at [NOKIA BELL LABS](https://www.bell-labs.com/) (internship). 
 
-I am fascinated by AI solutions with plausible clinical impacts and healthcare implications. 
-
 <!---
-[Another intriguing aspect of my work involves leveraging neurocomputational strategies to enhance SOTA AI. To this end, my projects are instantiated to various downstream tasks, e.g., transformer-based biclustering, classification, GNN for brain network modeling, 2D bottleneck-attention-module for multi-modal fusion, and Generative modeling]:
+[ I am fascinated by AI solutions with plausible clinical impacts and healthcare implications. Another intriguing aspect of my work involves leveraging neurocomputational strategies to enhance SOTA AI. To this end, my projects are instantiated to various downstream tasks, e.g., transformer-based biclustering, classification, GNN for brain network modeling, 2D bottleneck-attention-module for multi-modal fusion, and Generative modeling]: Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes! * My email address: aabdur.rahaman007@gmail.com
 I've been conducting my research in the Center for Translational Research in Neuroimaging and Data Science[(TReNDS)](https://trendscenter.org/) - a joint research lab with Georgia Tech, Emory, and Georgia State University led
 -->
 
-**I am looking for a full-time position starting in Fall 2024.** Love playing outdoor games (mostly soccer) in my free time and fancy cooking my favorite dishes!
+**I am looking for a full-time position starting in Fall 2024.** 
 
-* My email address: aabdur.rahaman007@gmail.com
 * Here is the [full CV](CV/CV_Rahaman.pdf). (Updated on August 2024)
 * Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
