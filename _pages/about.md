@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student in the School of Computational Science and Engineering at [Georgia Tech](https://cse.gatech.edu/) and advised by Professor [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). I design computational (AI/ML/statistical) models to extract knowledge from extensive datasets ‑ imaging, text, health Informatics, and time series. My research interests include Health AI, Reinforcement Learning, RLHF, and Graph Learning. I’ve worked on AI challenges for learning voluminous, sparse, and high‑dimensional data. Also, I've conducted substantial research in the granular factoring of big data dynamics encompassing bi-clustering, tri-clustering, and summarization algorithms. 
 
-I've experience in AI deployment in real-world settings - a federated RLHF-multi-modal framework for classifying mental disorders from neuroimages, genetics, and electronic health records and an LLM-log model to automate the routing of IT tickets at [NOKIA BELL LABS](https://www.bell-labs.com/)(internship). 
+I've experience in AI deployment in real-world settings - a federated RLHF-multi-modal framework for classifying mental disorders from neuroimages, genetics, and electronic health records and an LLM-log model to automate the routing of IT tickets at [NOKIA BELL LABS](https://www.bell-labs.com/) (internship). 
 
 I am fascinated by AI solutions with plausible clinical impacts and healthcare implications. 
 
