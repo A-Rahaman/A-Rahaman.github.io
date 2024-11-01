@@ -25,8 +25,9 @@ I've experience in AI deployment in real-world settings - a federated RLHF-multi
 I've been conducting my research in the Center for Translational Research in Neuroimaging and Data Science[(TReNDS)](https://trendscenter.org/) - a joint research lab with Georgia Tech, Emory, and Georgia State University led
 -->
 
-**I am looking for a full-time position starting in Fall 2024.** 
+**I am looking for a full-time position starting in Spring 2025.** 
 
-* Here is the [full CV](CV/CV_Rahaman.pdf). (Updated on August 2024)
+* Here is the [Industrial CV](CV/CV_Rahaman.pdf). (Updated on August 2024)
+* Here is my [Academic CV](CV/CV_Md_Abdur_Rahaman.pdf)
 * Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
