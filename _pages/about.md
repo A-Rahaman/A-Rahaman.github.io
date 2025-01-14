@@ -28,7 +28,7 @@ I've been conducting my research in the Center for Translational Research in Neu
 
 **I am looking for a full-time position starting in Spring 2025.** 
 
-* Here is the [Industrial CV](CV/CV_Rahaman.pdf) (Updated on January 2025)
-* Here is my [Academic CV](CV/CV_Md_Abdur_Rahaman.pdf)
-* Here is my [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
+* [Industrial CV](CV/CV_Rahaman.pdf) (Updated on January 2025)
+* [Academic CV](CV/CV_Md_Abdur_Rahaman.pdf)
+* [Google Scholar ID](https://scholar.google.com/citations?user=fiosWPwAAAAJ&hl=en)
 
