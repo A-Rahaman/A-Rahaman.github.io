@@ -26,7 +26,7 @@ I've experience in AI deployment in real-world settings - a federated multi-moda
 I've been conducting my research in the Center for Translational Research in Neuroimaging and Data Science[(TReNDS)](https://trendscenter.org/) - a joint research lab with Georgia Tech, Emory, and Georgia State University led
 -->
 
-** I've started a new position as an Applied Scientist at [Amazon][https://www.amazon.com/] from April 2025.** 
+** I've started a new position as an Applied Scientist at [Amazon](https://www.amazon.com/) from April 2025.** 
 
 * [Industrial CV](CV/CV_Rahaman.pdf) (Updated on January 2025)
 * [Academic CV](CV/CV_Md_Abdur_Rahaman.pdf)
