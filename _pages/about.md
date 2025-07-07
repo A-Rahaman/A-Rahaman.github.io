@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I've finished my Ph.D. in Computational Science and Engineering from [Georgia Tech](https://cse.gatech.edu/), advised by [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). I design computational (AI/ML/statistical) models to learn insights from extensive datasets ‑ imaging, text, medical informatics, and time series. My research interests include Multi-modal Foundation Models, Reinforcement Learning from Human Feedback (RLHF), Health AI, and Biclustering. 
+I've finished my Ph.D. in Computational Science and Engineering from [Georgia Tech](https://cse.gatech.edu/), advised by [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). I design computational (AI/ML/statistical) models to extract insights from extensive datasets, including imaging, text, medical informatics, and time series. My research interests include Multi-modal Foundation Models, Reinforcement Learning from Human Feedback (RLHF), Health AI, and Biclustering. 
 
 I've experience in AI deployment in real-world settings - a federated multi-modal framework for disease screening from neuroimages, genetics, and electronic health records; an LLM-log model to automate IT ticket routing from the ticket description and machine log at [NOKIA BELL LABS](https://www.bell-labs.com/) (internship). 
 
@@ -26,7 +26,7 @@ I've experience in AI deployment in real-world settings - a federated multi-moda
 I've been conducting my research in the Center for Translational Research in Neuroimaging and Data Science[(TReNDS)](https://trendscenter.org/) - a joint research lab with Georgia Tech, Emory, and Georgia State University led
 -->
 
-** I've started a new position as an Applied Scientist at Amazon from April 2025.** 
+** I've started a new position as an Applied Scientist at [Amazon][https://www.amazon.com/] from April 2025.** 
 
 * [Industrial CV](CV/CV_Rahaman.pdf) (Updated on January 2025)
 * [Academic CV](CV/CV_Md_Abdur_Rahaman.pdf)
